@@ -1,0 +1,18 @@
+.gamezone{
+	width:66px;
+}
+
+.gamefield{
+	width:20px;
+	height:20px;
+	border: 1px solid black;
+	display:block;
+	float:left;
+	text-align:center;
+	padding-top:2px;
+}
+
+
+ .new_button{
+	width:66px;
+}
